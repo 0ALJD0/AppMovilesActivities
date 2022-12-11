@@ -43,3 +43,11 @@ Refresh requested types: Device Info, User Consents, Send Tab To Self, Encryptio
 Refresh requested types: Device Info, User Consents, Send Tab To Self, Encryption Keys}
 {"logTime": "1203/162056", "correlationVector":"41PvcZ7Q3bAuZDfi/VIOCf.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL0100000V"}}
 {"logTime": "1203/162056", "correlationVector":"41PvcZ7Q3bAuZDfi/VIOCf.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 0 update(s). cV=41PvcZ7Q3bAuZDfi/VIOCf.0;server=GENERAL0100000V;cloudType=Consumer;environment=Prod_EastUS2_000e}
+{"logTime": "1203/163904", "correlationVector":"en6V0Ijh7kvKLqXRqjFAJu.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "1203/163904", "correlationVector":"E95DqUdYOGX1G9Zs+HI5C4.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL0100000I"}}
+{"logTime": "1203/163904", "correlationVector":"E95DqUdYOGX1G9Zs+HI5C4","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=E95DqUdYOGX1G9Zs+HI5C4}
+{"logTime": "1203/163904", "correlationVector":"E95DqUdYOGX1G9Zs+HI5C4.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 1 update(s). cV=E95DqUdYOGX1G9Zs+HI5C4.0;server=GENERAL0100000I;cloudType=Consumer;environment=Prod_EastUS2_000e}
+{"logTime": "1203/163904", "correlationVector":"rKjEfavFNFkPB1ZDJUYj1q","action":"Normal GetUpdate request", "result":"", "context":cV=rKjEfavFNFkPB1ZDJUYj1q
+Refresh requested types: Device Info, User Consents, Send Tab To Self, Encryption Keys}
+{"logTime": "1203/163904", "correlationVector":"rKjEfavFNFkPB1ZDJUYj1q.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL01000026"}}
+{"logTime": "1203/163904", "correlationVector":"rKjEfavFNFkPB1ZDJUYj1q.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 0 update(s). cV=rKjEfavFNFkPB1ZDJUYj1q.0;server=GENERAL01000026;cloudType=Consumer;environment=Prod_EastUS2_000e}
